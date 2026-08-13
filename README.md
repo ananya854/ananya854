@@ -1,11 +1,10 @@
 # Hi, I'm Ananya Bhosale 👋
 
-Final-year ECE Engineer from KLS GIT, Belagavi | CGPA: 8.68  
-Full Stack Developer · Data Analyst · ML Enthusiast  
-📍 Belagavi → Open to Remote & Bangalore roles
-
+Final-year ECE Engineer from KLS GIT, Belagavi | CGPA: 8.8  
+Full Stack Developer · Data Analyst · ML Enthusiast · Gen AI · Business Analyst
+📍 Belagavi
 ## 🛠 Tech Stack
-`Python` `SQL` `TensorFlow` `OpenCV` `Supabase` `Power BI` `Excel` `NumPy` `Pandas`
+`Python` `SQL` `TensorFlow` `OpenCV` `Supabase` `Power BI` `Excel` `NumPy` `Pandas` 
 
 ## 🚀 Featured Projects
 - 🦴 [Bone Fracture Detection](https://github.com/ananya854/bone-fracture-analysis-using-deep-learning) — CNN model, 85% accuracy (TensorFlow + OpenCV)
