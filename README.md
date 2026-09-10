@@ -10,3 +10,4 @@ Full Stack Developer · Data Analyst · ML Enthusiast · Gen AI · Business Anal
 - 🦴 [Bone Fracture Detection](https://github.com/ananya854/bone-fracture-analysis-using-deep-learning) — CNN model, 85% accuracy (TensorFlow + OpenCV)
 - 🌐 [Web Scraping & Analysis](https://github.com/ananya854/web-scraping-analysis) — End-to-end data pipeline + interactive HTML dashboard
 - 📡 [V2X Communication System](https://github.com/ananya854/majorproject) — Autonomous Vehicle Coordination & Safety
+- 📺[Data Analytics for netflix analysis](https://github.com/ananya854/netflix-catalog-analysis) - Complete analysis of netflix users with PowerBI dashboard
